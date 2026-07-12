@@ -4,6 +4,20 @@ import { useScrollReveal } from "../hooks/useScrollReveal";
 
 const PROJECTS = [
   {
+    title: "Enterprise Network Design (Cisco Packet Tracer)",
+    tagline: "Secure multi-site enterprise routing and segmentation lab",
+    desc:
+      "Multi-site enterprise network with secure segmentation, OSPF/eBGP routing, HSRP redundancy, ACL policy enforcement, SSH hardening, DHCP snooping, NAT/PAT, and troubleshooting-backed validation.",
+    highlights: [
+      "Secure segmentation and ACL policy enforcement",
+      "OSPF + eBGP routing with HSRP redundancy",
+      "SSH hardening, DHCP snooping, and NAT/PAT validation",
+    ],
+    tech: ["Cisco Packet Tracer", "Networking", "OSPF", "BGP", "HSRP", "ACL", "Cybersecurity"],
+    repoUrl: "https://github.com/MuhammadYahya001/enterprise-network-design-packet-tracer",
+    featured: true,
+  },
+  {
     title: "Code Secret Finder",
     tagline: "Enterprise-grade secret scanning CLI",
     desc:
