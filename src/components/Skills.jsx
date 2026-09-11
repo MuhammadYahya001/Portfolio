@@ -189,7 +189,7 @@ export default function Skills() {
             </p>
           </div>
           <a
-            href="https://drive.google.com/file/d/1oN0VhvEdYtCXx0gfcYloPyDwazl09rqe/view?usp=sharing"
+            href="/Yahya_s_Resume.pdf"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 rounded-lg bg-gradient-to-r from-green-600 to-emerald-600 px-6 py-3 font-medium text-white transition-premium hover:from-green-500 hover:to-emerald-500 whitespace-nowrap"
