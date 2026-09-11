@@ -106,6 +106,19 @@ const PROJECTS = [
     repoUrl: "https://github.com/MuhammadYahya001/Cuphead-Game",
     liveUrl: "https://youtu.be/N7H8UPZk85w",
   },
+  {
+    title: "Docker Network Automation Lab",
+    tagline: "Containerized network automation and orchestration lab",
+    desc:
+      "Hands-on lab for automating network workflows in Dockerized environments with reproducible topology setups, scripted provisioning, and validation checks.",
+    highlights: [
+      "Automated container network provisioning",
+      "Scripted topology setup and repeatability",
+      "Validation workflows for connectivity checks",
+    ],
+    tech: ["Docker", "Network Automation", "Linux", "Scripting"],
+    repoUrl: "https://github.com/MuhammadYahya001/docker-network-automation-lab",
+  },
 ];
 
 export default function Projects() {
